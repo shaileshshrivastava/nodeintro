@@ -1,0 +1,19 @@
+{
+  "name": "nodefiles",
+  "version": "12.16.1",
+  "description": "Simple Web App",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaileshshrivastava/nodeintro.git"
+  },
+  "author": "Anshu Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shaileshshrivastava/nodeintro/issues"
+  },
+  "homepage": "https://github.com/shaileshshrivastava/nodeintro#readme"
+}
